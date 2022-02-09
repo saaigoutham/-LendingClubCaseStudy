@@ -42,8 +42,8 @@ Give credit here.
 
 ## Contact
 Created by <br>
-<a href="https://github.com/saaigoutham">@saaigoutham</a> - feel free to contact me! <br>
-@pankaj - feel free to contact me!
+<a href="https://github.com/saaigoutham" target="_blank" >@Saaigoutham </a> - feel free to contact me! <br>
+<a href="https://github.com/PM-SoI" target="_blank" >@Pankaj Misra </a> - feel free to contact me!
 
 
 <!-- Optional -->
