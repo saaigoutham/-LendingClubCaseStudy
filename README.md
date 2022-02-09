@@ -1,5 +1,7 @@
 # Exploratory Data Analysis- Lending Club Case Study
-> The conumer finance company which specialises in lending various types of loans to urban customers wants to understand the risk in providing loan and understand how data is used to minimise the risk of losing money while lending to customers.
+> The purpose of this case study is to analyze and understand how consumer attributes and loan attributes are influencing the tendency of defaulting which resulting the loss to the company
+
+
 
 ## Table of Contents
 * [General Info](#general-information)
